@@ -12,11 +12,11 @@ Special considerations:
                     *Precision: Accuracy of the positive predictions
                     *Recall: Ratio of positive instances that are correctly detected
         
-        <img
+<img
       alt="Confusion matrix"
       src="./assets/confusion_matrix.PNG"
       width="400"
-    />
+/>
 
 
 Binary Classifier:
