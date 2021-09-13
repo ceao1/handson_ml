@@ -14,7 +14,7 @@ Special considerations:
         
         <img
       alt="Confusion matrix"
-      src="assets/confusion_matrix.PNG"
+      src="./assets/confusion_matrix.PNG"
       width="400"
     />
 
