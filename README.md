@@ -11,7 +11,12 @@ Special considerations:
                 Deeply you can use specific metrics for particular knowledge:
                     *Precision: Accuracy of the positive predictions
                     *Recall: Ratio of positive instances that are correctly detected
-        ![Cofusion_matrix][assets/confusion_matrix.PNG]
+        
+        <img
+      alt="Confusion matrix"
+      src="assets/confusion_matrix.PNG"
+      width="400"
+    />
 
 
 Binary Classifier:
